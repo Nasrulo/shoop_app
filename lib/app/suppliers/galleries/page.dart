@@ -1,0 +1,9 @@
+export 'accessories_gallery.dart';
+export 'bags_galleries.dart';
+export 'home_garden_gallery.dart';
+export 'electronics_gallery.dart';
+export 'shoes_gallery.dart';
+export 'beauty_gallery.dart';
+export 'women_gallery.dart';
+export 'men_gallery.dart';
+export 'kids_gallery.dart';
